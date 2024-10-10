@@ -1,0 +1,14 @@
+C:\Users\Huawei\source\repos\Home Task2\bin\Debug\net6.0\Home Task2.exe
+C:\Users\Huawei\source\repos\Home Task2\bin\Debug\net6.0\Home Task2.deps.json
+C:\Users\Huawei\source\repos\Home Task2\bin\Debug\net6.0\Home Task2.runtimeconfig.json
+C:\Users\Huawei\source\repos\Home Task2\bin\Debug\net6.0\Home Task2.dll
+C:\Users\Huawei\source\repos\Home Task2\bin\Debug\net6.0\Home Task2.pdb
+C:\Users\Huawei\source\repos\Home Task2\obj\Debug\net6.0\Home Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huawei\source\repos\Home Task2\obj\Debug\net6.0\Home Task2.AssemblyInfoInputs.cache
+C:\Users\Huawei\source\repos\Home Task2\obj\Debug\net6.0\Home Task2.AssemblyInfo.cs
+C:\Users\Huawei\source\repos\Home Task2\obj\Debug\net6.0\Home Task2.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\source\repos\Home Task2\obj\Debug\net6.0\Home Task2.dll
+C:\Users\Huawei\source\repos\Home Task2\obj\Debug\net6.0\refint\Home Task2.dll
+C:\Users\Huawei\source\repos\Home Task2\obj\Debug\net6.0\Home Task2.pdb
+C:\Users\Huawei\source\repos\Home Task2\obj\Debug\net6.0\Home Task2.genruntimeconfig.cache
+C:\Users\Huawei\source\repos\Home Task2\obj\Debug\net6.0\ref\Home Task2.dll
